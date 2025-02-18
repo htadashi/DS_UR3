@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 docker pull universalrobots/ursim_cb3
 
 # Navigate to the directory containing setup.py
