@@ -1,0 +1,1 @@
+docker run --rm -it -p 5900:5900 -p 6080:6080 -p 30004:30004 -v "${CODESPACE_VSCODE_FOLDER}/programs:/ursim/programs" universalrobots/ursim_cb3
